@@ -29,3 +29,5 @@
 15.sql -> Stored Procedures
 
 16.sql -> Subqueries
+
+17.sql -> ALTER TABLE
