@@ -30,4 +30,4 @@
 
 16.sql -> Subqueries
 
-17.sql -> ALTER TABLE
+17.sql -> ALTER TABLE, DROP TABLE
