@@ -31,3 +31,5 @@
 16.sql -> Subqueries
 
 17.sql -> ALTER TABLE, DROP TABLE
+
+18.sql -> LIMIT, OFFSET
